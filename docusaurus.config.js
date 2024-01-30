@@ -8,17 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Documentación Chat Buho',
   tagline: 'Guia oficial completa y definitiva de Chat Buho',
-  favicon: 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Senati_Per%C3%BA_logo.svg',
+  favicon: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-ilnkl&psig=AOvVaw1oPVpkCiVc1eRJz7tGqpmZ&ust=1706676451731000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDkx7CnhIQDFQAAAAAdAAAAABAJ',
 
   // Set the production url of your site here
-  url: 'https://daniel22s.github.io/',
+  url: 'https://NathyJulian.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Logo_Buho/',
 
   // GitHub pages deployment config.
-  organizationName: 'daniel22s',
-  projectName: 'Logo_Buho',
+  organizationName: 'NathyJulian',
+  projectName: 'Logito',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 

@@ -14,7 +14,7 @@ const config = {
   url: 'https://NathyJulian.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Logo_Buho/',
+  baseUrl: '/logito/',
 
   // GitHub pages deployment config.
   organizationName: 'NathyJulian',
